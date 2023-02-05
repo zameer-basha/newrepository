@@ -2,6 +2,6 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“hello Child”);
+System.out.println(“New Child”);
 }
 }
